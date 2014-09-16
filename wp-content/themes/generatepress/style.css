@@ -1215,3 +1215,10 @@ footer.entry-meta {
 	margin-bottom: 1.5em;
 	margin-top: 0;
 }
+
+.site-footer { display: none!important;}
+
+#masthead {
+	background: url('http://www.distrito704.com.br/wp-content/uploads/2014/08/capa.jpg') no-repeat -571px 0;
+	height: 200px;
+}
