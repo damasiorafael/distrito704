@@ -1,5 +1,4 @@
 wp-config.php
 .htaccess
-wp-content/uploads/*
 wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
